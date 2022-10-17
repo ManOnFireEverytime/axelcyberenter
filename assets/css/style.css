@@ -668,7 +668,7 @@ main .slines span {
     }
 }
 
-.imago {
+.imagee {
     -webkit-clip-path: polygon(0 0, 0% 0, 0% 100%, 0 100%);
     clip-path: polygon(0 0, 0% 0, 0% 100%, 0 100%);
     -webkit-transition: all .8s ease-in-out;
@@ -680,7 +680,7 @@ main .slines span {
     position: relative;
 }
 
-.imago .inner {
+.imagee .inner {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2);
@@ -694,13 +694,13 @@ main .slines span {
     z-index: 1;
 }
 
-.imago .inner.animated {
+.imagee .inner.animated {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
 }
 
-.imago.animated {
+.imagee.animated {
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
