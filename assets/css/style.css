@@ -4572,10 +4572,10 @@ header .arrow-down {
     transform: translateY(0);
 }
 
-.teams .max-margin {
+/* .teams .max-margin {
     margin-left: -40px;
     margin-right: -40px;
-}
+} */
 
 .teams .max-margin .lg-marg {
     padding-left: 40px;
