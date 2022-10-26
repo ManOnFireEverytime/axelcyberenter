@@ -412,10 +412,10 @@ $(function() {
         toggleRootClass();
     }
 
-    document.querySelector(".theme-icon").addEventListener("click", () => {
-        toggleLocalStorageItem();
-        toggleRootClass();
-    });
+    // document.querySelector(".theme-icon").addEventListener("click", () => {
+    //     toggleLocalStorageItem();
+    //     toggleRootClass();
+    // });
 
 });
 
